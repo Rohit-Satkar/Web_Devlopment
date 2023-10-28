@@ -40,10 +40,6 @@ body{
         padding: 40px;
         height: 0px;
     }
-    #like{
-        height: 200px;
-    }
-}
 #profile{
     margin: 40px;
     display: flex;
